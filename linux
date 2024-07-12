@@ -22,3 +22,37 @@
 20. What are the steps to configure a VPN server on a Linux machine?
 
 Follow Inderjeet Singh 
+Linux interview based questions for experienced professionals:
+
+1. Explain the Linux boot process in detail.
+2. Describe how to troubleshoot a Linux system that won't boot.
+3. How can you recover a root password on a Linux system?
+4. Explain the differences between ext4, XFS, and Btrfs file systems.
+5. How do you optimize system performance in Linux? Provide specific examples.
+6. What are cgroups and namespaces in Linux, and how are they used in containerization?
+7. Describe the process of setting up and configuring a high-availability cluster in Linux.
+8. Explain the Linux kernel's role in managing hardware resources.
+9. What are some advanced uses of `awk` and `sed`? Provide examples.
+10. How do you secure a Linux server against unauthorized access and attacks?
+11. Describe the process of compiling and installing a custom Linux kernel.
+12. What are SELinux and AppArmor, and how do they differ?
+13. Explain the process of setting up and using LVM (Logical Volume Manager) in Linux.
+14. How do you monitor and manage system logs effectively on a Linux server?
+15. What is the difference between soft limits and hard limits in `ulimit`? How do you configure them?
+16. Describe the steps to create and manage RAID arrays in Linux.
+17. How do you handle and troubleshoot disk I/O issues in Linux?
+18. Explain the use of `strace` and `lsof` for debugging in Linux.
+19. What are some best practices for managing and automating Linux system updates?
+20. How do you set up network bonding and teaming in Linux?
+21. Explain how to configure and troubleshoot NFS and Samba file sharing services.
+22. Describe the use and configuration of iptables and firewalld.
+23. How do you manage and analyze performance metrics using tools like `sar`, `iostat`, and `vmstat`?
+24. What are some advanced techniques for memory management in Linux?
+25. Explain how to configure and optimize a Linux system for database workloads.
+26. Describe the process of setting up a central authentication system using LDAP.
+27. What are systemd unit files, and how do you create and manage them?
+28. How do you perform a kernel upgrade on a critical production system with minimal downtime?
+29. Explain the process of migrating services from one Linux server to another.
+30. How do you handle filesystem corruption and recovery in Linux?
+
+Can you answers these questions in comment
