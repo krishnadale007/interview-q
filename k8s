@@ -20,3 +20,21 @@
 18. Explain how to set up a Kubernetes Federation for multi-cluster management.
 19. How do you handle secret management in Kubernetes? Compare using Secrets vs. external secret management tools.
 20. What strategies do you use for disaster recovery in a Kubernetes environment?
+
+𝗗𝗲𝘃𝗢𝗽𝘀 𝗞𝘂𝗯𝗲𝗿𝗻𝗲𝘁𝗲𝘀 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗕𝗮𝘀𝗲𝗱 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 👇🏼 
+
+1. What is a StatefulSet, and when would you use it?
+2. Explain the concept of Persistent Volumes (PV) and Persistent Volume Claims (PVC).
+3. How does the Kubernetes scheduler work?
+4. What is a DaemonSet, and how is it used?
+5. Describe the purpose and use of a Kubernetes Ingress.
+6. How do you monitor a Kubernetes cluster?
+7. What is Helm, and how does it simplify Kubernetes management?
+8. Explain the use of Kubernetes ConfigMaps and Secrets.
+9. What are Kubernetes Operators, and how do they work?
+10. How do you handle logging in a Kubernetes environment?
+11. What is the purpose of taints and tolerations in Kubernetes?
+12. How do you secure a Kubernetes cluster?
+13. What is a Kubernetes Job, and how does it differ from a Deployment?
+14. Explain the concept of Kubernetes Network Policies.
+15. How do you troubleshoot a failing Pod in Kubernetes?
