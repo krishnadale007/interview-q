@@ -1,0 +1,22 @@
+𝗞𝘂𝗯𝗲𝗿𝗻𝗲𝘁𝗲𝘀 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗮𝗻 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲𝗱 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿👇🏼
+
+1. Explain how to create a Kubernetes cluster from scratch.
+2. How do you deploy a multi-container pod? Provide a sample YAML configuration.
+3. Describe the process of setting up and configuring a Kubernetes Ingress Controller.
+4. How do you configure persistent storage in Kubernetes? Provide examples of Persistent Volume (PV) and Persistent Volume Claim (PVC).
+5. What is a StatefulSet, and when would you use it over a Deployment?
+6. Explain how to perform a rolling update and a rollback in Kubernetes.
+7. Describe the process of setting up Kubernetes RBAC (Role-Based Access Control) for a new project.
+8. How do you monitor and log Kubernetes clusters? Name tools and approaches you use.
+9. Explain how to set up and manage a Kubernetes Cluster Autoscaler.
+10. How do you handle configuration management in Kubernetes? Provide examples using ConfigMaps and Secrets.
+11. Describe the steps to troubleshoot a pod that is stuck in a CrashLoopBackOff state.
+12. How do you implement and manage network policies in Kubernetes? Provide a sample YAML configuration.
+13. What are the steps to upgrade a Kubernetes cluster without downtime?
+14. Explain how to use Helm for application deployment. Describe the structure of a Helm chart.
+15. How do you configure horizontal pod autoscaling in Kubernetes? What metrics can you use?
+16. Describe the process of setting up a custom admission controller in Kubernetes.
+17. How do you secure a Kubernetes cluster? Discuss network security, pod security policies, and image security.
+18. Explain how to set up a Kubernetes Federation for multi-cluster management.
+19. How do you handle secret management in Kubernetes? Compare using Secrets vs. external secret management tools.
+20. What strategies do you use for disaster recovery in a Kubernetes environment?
