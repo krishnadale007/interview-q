@@ -1,0 +1,32 @@
+𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗯𝗮𝘀𝗲𝗱 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀. 👇🏼
+
+1. Explain the difference between Terraform and other Infrastructure as Code (IaC) tools like Ansible, Puppet, and Chef.
+2. How do you manage state in Terraform, and what are some best practices for state management?
+3. Describe the purpose of Terraform modules and how you would use them in a project.
+4. How do you handle secrets and sensitive data in Terraform configurations?
+5. Explain the Terraform workflow, including the roles of `terraform init`, `terraform plan`, `terraform apply`, and `terraform destroy`.
+6. What are Terraform providers, and how do you configure them?
+7. Describe how to use the `terraform import` command.
+8. How do you manage multiple environments (e.g., development, staging, production) in Terraform?
+9. What are Terraform workspaces, and how do they help in managing infrastructure?
+10. Explain how you can use Terraform to manage dependencies between resources.
+11. How do you perform resource tainting and why is it useful?
+12. Describe the process of upgrading a Terraform provider.
+13. How do you handle Terraform drift detection and remediation?
+14. What are some strategies for ensuring high availability and disaster recovery with Terraform?
+15. Explain the use of `terraform fmt` and `terraform validate` in maintaining code quality.
+16. How do you manage infrastructure versioning and collaboration in Terraform?
+17. Describe a scenario where you encountered a complex Terraform issue and how you resolved it.
+18. Explain the difference between `terraform apply` and `terraform apply -auto-approve`.
+19. How do you integrate Terraform with CI/CD pipelines?
+20. What are some common Terraform gotchas and how do you avoid them?
+21. How do you use Terraform with multi-cloud deployments?
+22. Describe how you would handle a situation where a Terraform apply failed in the middle of execution.
+23. How do you manage provider version constraints in Terraform configurations?
+24. Explain the purpose and use of `terraform graph`.
+25. How do you configure remote backends in Terraform, and why are they useful?
+26. Describe how to use the Terraform Registry.
+27. How do you handle conditional logic in Terraform?
+28. What are some best practices for writing reusable and maintainable Terraform code?
+29. Explain the purpose and usage of data sources in Terraform.
+30. How do you handle breaking changes introduced in new Terraform versions?
